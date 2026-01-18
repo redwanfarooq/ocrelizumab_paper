@@ -69,7 +69,7 @@ Internal datasets:
 - Anonymised donor-level metadata for internal CITEseq datasets are provided in [`data/metadata/`](data/metadata/).
 
 External datasets:
-- Additional manually-curated metadata for external datasets (from supplementary materials of original publications) are provided in [`data/processed/external/`](data/metadata/external/).
+- Additional manually-curated metadata for external datasets (from supplementary materials of original publications) are provided in [`data/processed/external/`](data/processed/external/).
 
 ### Reference Data
 
@@ -87,7 +87,7 @@ Precomputed cNMF gene programs and starCAT spectra from the discovery cohort dat
 
 ## Index
 
-The following table indicate the notebooks that generate each figure, table and data file included in the manuscript:
+The following table indicates the notebooks that generate each figure, table and data file included in the manuscript:
 
 | Figure/Table/File                | Notebook                                                                                   |
 |----------------------------------|-------------------------------------------------------------------------------------------|
@@ -130,4 +130,4 @@ For questions about the code, please contact Redwan Farooq ([redwan.farooq@ndcn.
 
 ---
 
-**Last updated**: January 2025
+**Last updated**: 18/01/2026
