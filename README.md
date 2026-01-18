@@ -48,6 +48,11 @@ conda env create -f envs/environment.yaml
 conda activate ocrelizumab_paper
 ```
 
+Next, to install the Jupyter kernel for running R notebooks, run:
+```bash
+Rscript -e 'IRkernel::installspec(name = "ir-ocrelizumab_paper", displayname = "R 4.3 (ocrelizumab_paper)")'
+```
+
 ## Data Availability
 
 ### Input Data
