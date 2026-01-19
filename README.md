@@ -119,10 +119,9 @@ The following table indicates the notebooks that generate each figure, table and
 | Supplementary Table 1            | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)  |
 | Supplementary Table 2            | [`03_annotate/08_cluster_names.ipynb`](03_annotate/08_cluster_names.ipynb)                |
 | Supplementary Table 3-4          | [`04_analyse/03_gep_visualisation.ipynb`](04_analyse/03_gep_visualisation.ipynb)          |
-| cell_type_markers_coarse.xlsx    | [`03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb`](03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb) |
-| cell_type_markers_fine.xlsx      | [`03_annotate/04_subcluster_annotate_cohort_treatment_naive.ipynb`](03_annotate/04_subcluster_annotate_cohort_treatment_naive.ipynb) |
-| go_enrichment.xlsx               | [`04_analyse/04_gep_pathway_enrichment.ipynb`](04_analyse/04_gep_pathway_enrichment.ipynb) |
-| de_tc1th_high_vs_low.xlsx        | [`04_analyse/07_totalvi.ipynb`](04_analyse/07_totalvi.ipynb)                              |
+| Supplementary Data 1-2           | [`03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb`](03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb) |
+| Supplementary Data 3             | [`04_analyse/04_gep_pathway_enrichment.ipynb`](04_analyse/04_gep_pathway_enrichment.ipynb) |
+| Supplementary Data 4             | [`04_analyse/07_totalvi.ipynb`](04_analyse/07_totalvi.ipynb)                              |
 
 
 ## License
