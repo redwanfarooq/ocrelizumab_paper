@@ -95,8 +95,8 @@ Precomputed cNMF gene programs and starCAT spectra from the discovery cohort dat
 
 The following table indicates the notebooks that generate each figure, table and data file included in the manuscript:
 
-| Figure/Table/File          | Notebook                                                                                   |
-|----------------------------|-------------------------------------------------------------------------------------------|
+| Figure/Table/File         | Notebook                                                                                   |
+|---------------------------|-------------------------------------------------------------------------------------------|
 | Fig. 1B                   | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)   |
 | Fig. 1C-G                 | [`04_analyse/09_cohort_treatment_naive_global.ipynb`](04_analyse/09_cohort_treatment_naive_global.ipynb) |
 | Fig. 3A-D                 | [`04_analyse/10_cohort_treatment_naive_b_cells.ipynb`](04_analyse/10_cohort_treatment_naive_b_cells.ipynb) |
