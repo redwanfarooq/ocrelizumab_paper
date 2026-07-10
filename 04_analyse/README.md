@@ -17,5 +17,6 @@ This stage consists of sequential notebooks for downstream analyses of annotated
 13. [`13_starcat.ipynb`](13_starcat.ipynb) - starCAT T cell gene program projection into validation datasets
 14. [`14_cohort_nonresponders.ipynb`](14_cohort_nonresponders.ipynb) - non-responder analysis
 15. [`15_csf_validation.ipynb`](15_csf_validation.ipynb) - CSF/blood validation analysis
-16. [`16_brain_tissue_validation.ipynb`](16_brain_tissue_validation.ipynb) - brain tissue validation analysis
-17. [`17_natalizumab_validation.ipynb`](17_natalizumab_validation.ipynb) - natalizumab validation analysis
+16. [`16_tcr_clonotype_validation.ipynb`](16_tcr_clonotype_validation.ipynb) - TCR clonotype validation analysis
+17. [`17_brain_tissue_validation.ipynb`](17_brain_tissue_validation.ipynb) - brain tissue validation analysis
+18. [`18_natalizumab_validation.ipynb`](18_natalizumab_validation.ipynb) - natalizumab validation analysis

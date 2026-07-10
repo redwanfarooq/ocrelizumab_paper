@@ -1,6 +1,6 @@
-# Stage 1: Raw data preprocessing, quality control, normalisation and integration of CITEseq datasets generated for this study
+# Stage 1: Raw data preprocessing, quality control, normalisation and integration of CITE-seq datasets generated for this study
 
-This stage consists of sequential Snakemake pipelines for processing internal CITEseq datasets. The pipelines are self-contained with their own Conda environment specifications and installation instructions.
+This stage consists of sequential Snakemake pipelines for processing internal CITE-seq datasets. The pipelines are self-contained with their own Conda environment specifications and installation instructions.
 
 The datasets were generated with three experimental protocols:
 - `cohort_01`: Chromium Next GEM Single Cell 3' v3.1 with TotalSeq-A antibodies
