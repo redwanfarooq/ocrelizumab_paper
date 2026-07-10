@@ -113,7 +113,7 @@ The following table indicates the notebooks that generate each figure, table and
 | Supplementary Fig. 10A-C  | [`04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb`](04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb) |
 | Supplementary Fig. 11A-B  | [`04_analyse/14_cohort_nonresponders.ipynb`](04_analyse/14_cohort_nonresponders.ipynb)    |
 | Supplementary Fig. 12A-E  | [`04_analyse/15_csf_validation.ipynb`](04_analyse/15_csf_validation.ipynb)                |
-| Supplementary Fig. 13A-D  | [`04_analyse/16_tcr_clonality_validation.ipynb`](04_analyse/16_tcr_clonality_validation.ipynb) |
+| Supplementary Fig. 13A-D  | [`04_analyse/16_tcr_clonotype_validation.ipynb`](04_analyse/16_tcr_clonotype_validation.ipynb) |
 | Supplementary Fig. 14A-D  | [`04_analyse/17_brain_tissue_validation.ipynb`](04_analyse/17_brain_tissue_validation.ipynb) |
 | Supplementary Fig. 15A-B  | [`04_analyse/18_natalizumab_validation.ipynb`](04_analyse/18_natalizumab_validation.ipynb) |
 | Supplementary Fig. 16-17  | [`04_analyse/06_shap_program_perturbation.ipynb`](04_analyse/06_shap_program_perturbation.ipynb) |
