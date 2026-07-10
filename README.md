@@ -97,32 +97,32 @@ The following table indicates the notebooks that generate each figure, table and
 
 | Figure/Table/File          | Notebook                                                                                   |
 |----------------------------|-------------------------------------------------------------------------------------------|
-| Fig. 1B                    | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)   |
-| Fig. 1C--G                 | [`04_analyse/09_cohort_treatment_naive_global.ipynb`](04_analyse/09_cohort_treatment_naive_global.ipynb) |
-| Fig. 3A--D                 | [`04_analyse/10_cohort_treatment_naive_b_cells.ipynb`](04_analyse/10_cohort_treatment_naive_b_cells.ipynb) |
-| Fig. 4A--F                 | [`04_analyse/11_cohort_treatment_naive_t_cells.ipynb`](04_analyse/11_cohort_treatment_naive_t_cells.ipynb) |
-| Fig. 5B--C                 | [`04_analyse/15_csf_validation.ipynb`](04_analyse/15_csf_validation.ipynb)                 |
-| Fig. 5E                    | [`04_analyse/16_tcr_clonotype_validation.ipynb`](04_analyse/16_tcr_clonotype_validation.ipynb) |
-| Fig. 5G                    | [`04_analyse/17_brain_tissue_validation.ipynb`](04_analyse/17_brain_tissue_validation.ipynb) |
-| Fig. 6B--D                 | [`04_analyse/18_natalizumab_validation.ipynb`](04_analyse/18_natalizumab_validation.ipynb) |
-| Supplementary Fig. 1       | [`04_analyse/01_meld.ipynb`](04_analyse/01_meld.ipynb)                                     |
-| Supplementary Fig. 2       | [`04_analyse/02_cnmf.ipynb`](04_analyse/02_cnmf.ipynb)                                     |
-| Supplementary Fig. 3,5--8  | [`04_analyse/03_gep_visualisation.ipynb`](04_analyse/03_gep_visualisation.ipynb)          |
-| Supplementary Fig. 4A--C   | [`04_analyse/09_cohort_treatment_naive_global.ipynb`](04_analyse/09_cohort_treatment_naive_global.ipynb) |
-| Supplementary Fig. 9A--C   | [`04_analyse/11_cohort_treatment_naive_t_cells.ipynb`](04_analyse/11_cohort_treatment_naive_t_cells.ipynb) |
-| Supplementary Fig. 10A--C  | [`04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb`](04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb) |
-| Supplementary Fig. 11A--B  | [`04_analyse/14_cohort_nonresponders.ipynb`](04_analyse/14_cohort_nonresponders.ipynb)    |
-| Supplementary Fig. 12A--E  | [`04_analyse/15_csf_validation.ipynb`](04_analyse/15_csf_validation.ipynb)                |
-| Supplementary Fig. 13A--D  | [`04_analyse/16_tcr_clonality_validation.ipynb`](04_analyse/16_tcr_clonality_validation.ipynb) |
-| Supplementary Fig. 14A--D  | [`04_analyse/17_brain_tissue_validation.ipynb`](04_analyse/17_brain_tissue_validation.ipynb) |
-| Supplementary Fig. 15A--B  | [`04_analyse/18_natalizumab_validation.ipynb`](04_analyse/18_natalizumab_validation.ipynb) |
-| Supplementary Fig. 16--17  | [`04_analyse/06_shap_program_perturbation.ipynb`](04_analyse/06_shap_program_perturbation.ipynb) |
-| Supplementary Table 1      | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)   |
-| Supplementary Table 2      | [`03_annotate/09_cluster_names.ipynb`](03_annotate/09_cluster_names.ipynb)                |
-| Supplementary Data 1--2    | [`03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb`](03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb) |
-| Supplementary Data 3       | [`04_analyse/02_cnmf.ipynb`](04_analyse/02_cnmf.ipynb)                                     |
-| Supplementary Data 4       | [`04_analyse/04_gep_pathway_enrichment.ipynb`](04_analyse/04_gep_pathway_enrichment.ipynb) |
-| Supplementary Data 5       | [`04_analyse/07_totalvi.ipynb`](04_analyse/07_totalvi.ipynb)                              |
+| Fig. 1B                   | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)   |
+| Fig. 1C-G                 | [`04_analyse/09_cohort_treatment_naive_global.ipynb`](04_analyse/09_cohort_treatment_naive_global.ipynb) |
+| Fig. 3A-D                 | [`04_analyse/10_cohort_treatment_naive_b_cells.ipynb`](04_analyse/10_cohort_treatment_naive_b_cells.ipynb) |
+| Fig. 4A-F                 | [`04_analyse/11_cohort_treatment_naive_t_cells.ipynb`](04_analyse/11_cohort_treatment_naive_t_cells.ipynb) |
+| Fig. 5B-C                 | [`04_analyse/15_csf_validation.ipynb`](04_analyse/15_csf_validation.ipynb)                 |
+| Fig. 5E                   | [`04_analyse/16_tcr_clonotype_validation.ipynb`](04_analyse/16_tcr_clonotype_validation.ipynb) |
+| Fig. 5G                   | [`04_analyse/17_brain_tissue_validation.ipynb`](04_analyse/17_brain_tissue_validation.ipynb) |
+| Fig. 6B-D                 | [`04_analyse/18_natalizumab_validation.ipynb`](04_analyse/18_natalizumab_validation.ipynb) |
+| Supplementary Fig. 1      | [`04_analyse/01_meld.ipynb`](04_analyse/01_meld.ipynb)                                     |
+| Supplementary Fig. 2      | [`04_analyse/02_cnmf.ipynb`](04_analyse/02_cnmf.ipynb)                                     |
+| Supplementary Fig. 3,5-8  | [`04_analyse/03_gep_visualisation.ipynb`](04_analyse/03_gep_visualisation.ipynb)          |
+| Supplementary Fig. 4A-C   | [`04_analyse/09_cohort_treatment_naive_global.ipynb`](04_analyse/09_cohort_treatment_naive_global.ipynb) |
+| Supplementary Fig. 9A-C   | [`04_analyse/11_cohort_treatment_naive_t_cells.ipynb`](04_analyse/11_cohort_treatment_naive_t_cells.ipynb) |
+| Supplementary Fig. 10A-C  | [`04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb`](04_analyse/12_cohort_treatment_naive_cd20dim_t_cells.ipynb) |
+| Supplementary Fig. 11A-B  | [`04_analyse/14_cohort_nonresponders.ipynb`](04_analyse/14_cohort_nonresponders.ipynb)    |
+| Supplementary Fig. 12A-E  | [`04_analyse/15_csf_validation.ipynb`](04_analyse/15_csf_validation.ipynb)                |
+| Supplementary Fig. 13A-D  | [`04_analyse/16_tcr_clonality_validation.ipynb`](04_analyse/16_tcr_clonality_validation.ipynb) |
+| Supplementary Fig. 14A-D  | [`04_analyse/17_brain_tissue_validation.ipynb`](04_analyse/17_brain_tissue_validation.ipynb) |
+| Supplementary Fig. 15A-B  | [`04_analyse/18_natalizumab_validation.ipynb`](04_analyse/18_natalizumab_validation.ipynb) |
+| Supplementary Fig. 16-17  | [`04_analyse/06_shap_program_perturbation.ipynb`](04_analyse/06_shap_program_perturbation.ipynb) |
+| Supplementary Table 1     | [`04_analyse/08_clinical_demographics.ipynb`](04_analyse/08_clinical_demographics.ipynb)   |
+| Supplementary Table 2     | [`03_annotate/09_cluster_names.ipynb`](03_annotate/09_cluster_names.ipynb)                |
+| Supplementary Data 1-2    | [`03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb`](03_annotate/02_subcluster_annotate_cohort_treatment_naive.ipynb) |
+| Supplementary Data 3      | [`04_analyse/02_cnmf.ipynb`](04_analyse/02_cnmf.ipynb)                                     |
+| Supplementary Data 4      | [`04_analyse/04_gep_pathway_enrichment.ipynb`](04_analyse/04_gep_pathway_enrichment.ipynb) |
+| Supplementary Data 5      | [`04_analyse/07_totalvi.ipynb`](04_analyse/07_totalvi.ipynb)                              |
 
 
 ## License
