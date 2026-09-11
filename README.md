@@ -4,6 +4,7 @@ This repository contains the analysis code and workflow for the manuscript:
 
 **Multimodal discovery of a pathogenic B cell-dependent T cell state in multiple sclerosis**  
 *Redwan Farooq, Brian Cutler, Marco Pisa, Subita Balaram Kuttikkatte, Jacqueline Palace, Gabriele C DeLuca, Ralf Gold, Fabian J Theis, Lars Fugger, Kathrine E Attfield*
+Brain. 2026. **DOI:** [10.1093/brain/awag303](https://doi.org/10.1093/brain/awag303)
 
 ## Overview
 
@@ -57,7 +58,7 @@ Rscript -e 'IRkernel::installspec(name = "ir-ocrelizumab_paper", displayname = "
 
 ### Input Data
 Internal datasets:
-- FASTQ files for internal CITE-seq datasets will be deposited in EGA (accession pending)
+- FASTQ files for internal CITE-seq datasets have been deposited in EGA (accession EGAS50000002112)
 - Processed data for internal CITE-seq datasets have been deposited in GEO (accession GSE316688):
     - Unfiltered per-sample GEX and ADT count matrices
     - QC-filtered and annotated datasets (Seurat/RDS and MuData/H5MU formats) - download to `data/processed/cite_seq/cohort_treatment_naive/annotated/` and `data/processed/cite_seq/cohort_nonresponders/annotated/`
@@ -135,4 +136,4 @@ For questions about the code, please contact Redwan Farooq ([redwan.farooq@ndcn.
 
 ---
 
-**Last updated**: 10/07/2026
+**Last updated**: 11/09/2026
