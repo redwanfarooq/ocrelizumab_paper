@@ -3,7 +3,7 @@
 This repository contains the analysis code and workflow for the manuscript:
 
 **Multimodal discovery of a pathogenic B cell-dependent T cell state in multiple sclerosis**  
-*Redwan Farooq, Brian Cutler, Marco Pisa, Subita Balaram Kuttikkatte, Jacqueline Palace, Gabriele C DeLuca, Ralf Gold, Fabian J Theis, Lars Fugger, Kathrine E Attfield*
+*Redwan Farooq, Brian Cutler, Marco Pisa, Subita Balaram Kuttikkatte, Jacqueline Palace, Gabriele C DeLuca, Ralf Gold, Fabian J Theis, Lars Fugger, Kathrine E Attfield*  
 Brain. 2026. **DOI:** [10.1093/brain/awag303](https://doi.org/10.1093/brain/awag303)
 
 ## Overview
